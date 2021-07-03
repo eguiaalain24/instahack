@@ -107,5 +107,4 @@ for i in range(len(passwords)):
 		else:
 			continue
 		
-cd instahack
-
+ls
